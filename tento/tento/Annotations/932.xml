@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>932.jpg</filename>
+    <path>tento-PascalVOC-export/Annotations/932.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>rash</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>100.40865525421744</xmin>
+        <ymin>49.85999450683594</ymin>
+        <xmax>445.90068899367384</xmax>
+        <ymax>525.0599945068359</ymax>
+    </bndbox>
+</object><object>
+    <name>rash</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>651.7563481138707</xmin>
+        <ymin>77.21998901367188</ymin>
+        <xmax>998.6879100281162</xmax>
+        <ymax>484.74000549316406</ymax>
+    </bndbox>
+</object><object>
+    <name>rash</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1220.3786536433927</xmin>
+        <ymin>42.659994506835936</ymin>
+        <xmax>1584.5847733130272</xmax>
+        <ymax>506.340005493164</ymax>
+    </bndbox>
+</object><object>
+    <name>rash</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>889.2821213097469</xmin>
+        <ymin>581.2200164794922</ymin>
+        <xmax>1237.6532113987817</xmax>
+        <ymax>1024.740005493164</ymax>
+    </bndbox>
+</object><object>
+    <name>rash</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>86.01315384840674</xmin>
+        <ymin>575.459994506836</ymin>
+        <xmax>461.7357185742736</xmax>
+        <ymax>1039.1400054931642</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,81 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>931.jpg</filename>
+    <path>tento-PascalVOC-export/Annotations/931.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>rash</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>77.37582005623243</xmin>
+        <ymin>46.979983520507815</ymin>
+        <xmax>451.6588566073102</xmax>
+        <ymax>480.4200164794922</ymax>
+    </bndbox>
+</object><object>
+    <name>red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>625.8444016518275</xmin>
+        <ymin>42.659994506835936</ymin>
+        <xmax>978.5341860941893</xmax>
+        <ymax>480.4200164794922</ymax>
+    </bndbox>
+</object><object>
+    <name>red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1110.9728649250235</xmin>
+        <ymin>44.1</ymin>
+        <xmax>1470.8604000702906</xmax>
+        <ymax>471.77998352050787</ymax>
+    </bndbox>
+</object><object>
+    <name>red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1223.2577099929708</xmin>
+        <ymin>555.2999725341797</ymin>
+        <xmax>1620.573526827554</xmax>
+        <ymax>1053.540005493164</ymax>
+    </bndbox>
+</object><object>
+    <name>red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>671.9100720477976</xmin>
+        <ymin>556.7400054931641</ymin>
+        <xmax>1041.8744142455482</xmax>
+        <ymax>1029.0600494384767</ymax>
+    </bndbox>
+</object><object>
+    <name>other</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>110.48546230670102</xmin>
+        <ymin>563.9400054931641</ymin>
+        <xmax>486.2080819470478</xmax>
+        <ymax>1034.8199615478516</ymax>
+    </bndbox>
+</object>
+</annotation>

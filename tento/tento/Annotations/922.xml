@@ -1,0 +1,136 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>922.jpg</filename>
+    <path>tento-PascalVOC-export/Annotations/922.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1024</width>
+        <height>768</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>37.117438001002</xmin>
+        <ymin>132.2438534007353</ymin>
+        <xmax>262.0280717685371</xmax>
+        <ymax>323.6278200200535</ymax>
+    </bndbox>
+</object><object>
+    <name>two_spots_mutant</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>205.38998309118236</xmin>
+        <ymin>18.891980176303477</ymin>
+        <xmax>438.5090336923847</xmax>
+        <ymax>238.20320855614978</ymax>
+    </bndbox>
+</object><object>
+    <name>two_spots</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>435.2256544338677</xmin>
+        <ymin>107.60214217078878</ymin>
+        <xmax>647.0028337925851</xmax>
+        <ymax>316.2352941176471</ymax>
+    </bndbox>
+</object><object>
+    <name>red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>609.2441288827655</xmin>
+        <ymin>25.463104737633692</ymin>
+        <xmax>806.246070265531</xmax>
+        <ymax>201.24064171122998</ymax>
+    </bndbox>
+</object><object>
+    <name>red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>630.5860001252504</xmin>
+        <ymin>188.0984082553476</ymin>
+        <xmax>870.2717466182363</xmax>
+        <ymax>399.19574072526746</ymax>
+    </bndbox>
+</object><object>
+    <name>two_spots_mutant</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>789.0084700651302</xmin>
+        <ymin>319.5208681483958</ymin>
+        <xmax>971.2352987224448</xmax>
+        <ymax>490.37009107620327</ymax>
+    </bndbox>
+</object><object>
+    <name>two_spots</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>259.5655529809619</xmin>
+        <ymin>226.70376211564172</ymin>
+        <xmax>457.3884174599198</xmax>
+        <ymax>386.05347593582894</ymax>
+    </bndbox>
+</object><object>
+    <name>two_spots</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>392.5419119488978</xmin>
+        <ymin>309.6641773897059</ymin>
+        <xmax>621.5567541332665</xmax>
+        <ymax>517.475935828877</ymax>
+    </bndbox>
+</object><object>
+    <name>two_spots</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>463.13428419338675</xmin>
+        <ymin>520.7615098596257</ymin>
+        <xmax>683.9407095440881</xmax>
+        <ymax>698.1818181818182</ymax>
+    </bndbox>
+</object><object>
+    <name>two_spots</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>737.2954189629257</xmin>
+        <ymin>539.6535135360963</ymin>
+        <xmax>936.7599730711422</xmax>
+        <ymax>728.5732996323529</ymax>
+    </bndbox>
+</object><object>
+    <name>two_spots</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>607.8076308867734</xmin>
+        <ymin>399.19574072526757</ymin>
+        <xmax>836.2324649298596</xmax>
+        <ymax>582.3657879344922</ymax>
+    </bndbox>
+</object>
+</annotation>
