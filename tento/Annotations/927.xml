@@ -1,0 +1,81 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>927.jpg</filename>
+    <path>tento-PascalVOC-export/Annotations/927.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>two_spots</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>140.71604820759137</xmin>
+        <ymin>98.81998901367187</ymin>
+        <xmax>385.439572106373</xmax>
+        <ymax>437.2200164794922</ymax>
+    </bndbox>
+</object><object>
+    <name>two_spots</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>663.2727931701031</xmin>
+        <ymin>127.61998901367188</ymin>
+        <xmax>910.875373418463</xmax>
+        <ymax>428.5799835205078</ymax>
+    </bndbox>
+</object><object>
+    <name>two_spots_mutant</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1165.6757043697282</xmin>
+        <ymin>97.37998352050782</ymin>
+        <xmax>1452.1462043111528</xmax>
+        <ymax>460.259994506836</ymax>
+    </bndbox>
+</object><object>
+    <name>two_spots</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1361.4546113519214</xmin>
+        <ymin>552.4200164794922</ymin>
+        <xmax>1689.6719775070292</xmax>
+        <ymax>959.9400054931641</ymax>
+    </bndbox>
+</object><object>
+    <name>rash</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>722.2943269681349</xmin>
+        <ymin>653.2199615478515</ymin>
+        <xmax>1008.7648269095595</xmax>
+        <ymax>995.9400054931641</ymax>
+    </bndbox>
+</object><object>
+    <name>two_spots_mutant</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>119.12279609887536</xmin>
+        <ymin>610.0200164794923</ymin>
+        <xmax>431.5051875878632</xmax>
+        <ymax>982.9799835205079</ymax>
+    </bndbox>
+</object>
+</annotation>
